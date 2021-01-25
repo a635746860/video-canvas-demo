@@ -1,0 +1,12 @@
+{
+  "name": "umi-paw",
+  "short_name": "umi-paw",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "128*128",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html"
+}
